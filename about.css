@@ -6,7 +6,7 @@
 }
 
 .food-munch-logo {
-    width: 100px;
+    width: 400px;
     height: 100px;
 }
 
@@ -33,7 +33,7 @@
 .banner-section-bg-container {
     background-image: url("https://tse2.mm.bing.net/th?id=OIP.yvN5tNGWzxYEiqiUffVwKwHaBe&pid=Api&P=0&w=495&h=99");
 
-    height: 100vh;
+    height: 30vh;
 
     background-size: cover;
 
