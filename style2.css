@@ -60,7 +60,7 @@ header{
 
 .top-logo_block{
   height: 150px;
-  width:400px
+  
   padding: 12px 5px 0;
 }
 
@@ -74,7 +74,7 @@ header{
 }
 #heading1{
   margin: 0 auto 0;
-  width: 160px;
+  width: 200px;
 }
 #heading2{
   margin: 0px auto;
