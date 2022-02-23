@@ -1,0 +1,284 @@
+@import url();
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: bold;
+}
+
+.food-munch-logo {
+    width: 100px;
+    height: 100px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("data:image/jpeg;base64,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");
+
+    height: 100vh;
+
+    background-size: cover;
+
+}
+
+.banner-heading {
+
+    color: blue;
+    font-family: "roboto";
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: blue;
+    background-color: orange;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: green;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 0px;
+    border-color: #d0b200;
+    border-radius: 15px;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.delivery-and-payment-section {
+    background-color: white;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: linear-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.offcam {
+    background-color: orange;
+    border-radius: 15px;
+}
+
+.offcard {
+    background-color: green;
+    padding: 20px;
+    margin: 20px;
+}
+
+.para {
+    color: orange;
+}
+
+.srinu {
+    background-color: yellow;
+    border-radius: 10px;
+    height: 70px;
+    width: 120px;
+    font-style: italic;
+}
