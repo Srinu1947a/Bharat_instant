@@ -38,12 +38,13 @@ main{
 }
 
 .the_card{
-  margin: 2px;
+  margin: 10px;
   height: 100px;
   width: 100px;
   transition: all 0.2s linear;
   padding: 5px;
   background-color: lightpink;
+  text-align:cenetr;
 }
 .the_card:hover{
   transform: scale(1.1);
@@ -57,8 +58,8 @@ main{
 }
 .card_content{
   display: block;
-  width: 10%;
-  height: 10%;
+  width: 50%;
+  height: 20%;
   background-color: lightblue;
   color: black;
   text-align: center;
