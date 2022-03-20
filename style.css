@@ -73,4 +73,11 @@ img{
   width:100px;
   height:100px;
 }
+.pa{
+  background-color:lightpink;
+}
+.success{
+  background-color:green;
+  border-radius:3px;
+}
 
